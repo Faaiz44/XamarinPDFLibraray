@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>PDFReader.Xamarin</id>
+    <version>1.0.0</version>
+    <title>PDF Reader - Xamarin</title>
+    <authors>Confiz</authors>
+    <owners>Syed Faaiz Ahmed</owners>
+    <licenseUrl>http://opensource.org/licenses/ms-pl.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Android PDF Reader for Xamarin Android. It uses PDFRenderer for rendering PDF's. It supports Android Version greater than 5.0 (Lollipop). Using this Plugin , You can load PDF files from Local Storage and also from URL.</description>
+    <releaseNotes>This is the stable Release of the Package.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+  </metadata>
+  <files>
+    <file src="PDFRenderer.dll" target="lib\MonoAndroid\PDFRenderer.dll" />
+  </files>
+</package>

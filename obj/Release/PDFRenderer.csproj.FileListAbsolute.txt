@@ -1,0 +1,13 @@
+C:\Macy\Macys-MyStore-TFS\Macys.MyStore\MyStoreApps\UIViews\Android\PDFRenderer\bin\Release\PDFRenderer.dll
+C:\Macy\Macys-MyStore-TFS\Macys.MyStore\MyStoreApps\UIViews\Android\PDFRenderer\bin\Release\PDFRenderer.pdb
+C:\Macy\Macys-MyStore-TFS\Macys.MyStore\MyStoreApps\UIViews\Android\PDFRenderer\bin\Release\PDFRenderer.PDFRenderer.apk
+C:\Macy\Macys-MyStore-TFS\Macys.MyStore\MyStoreApps\UIViews\Android\PDFRenderer\bin\Release\PDFRenderer.PDFRenderer-Signed.apk
+C:\Macy\Macys-MyStore-TFS\Macys.MyStore\MyStoreApps\UIViews\Android\PDFRenderer\obj\Release\PDFRenderer.dll
+C:\Macy\Macys-MyStore-TFS\Macys.MyStore\MyStoreApps\UIViews\Android\PDFRenderer\obj\Release\PDFRenderer.pdb
+C:\Macy\Macys-MyStore-TFS\Macys.MyStore\MyStoreApps\UIViews\Android\PDFRenderer\obj\Release\android\bin\PDFRenderer.PDFRenderer.apk
+C:\Macy\Macys-MyStore-TFS\Macys.MyStore\MyStoreApps\UIViews\Android\PDFRenderer\obj\Release\res\layout\documentview.xml
+C:\Macy\Macys-MyStore-TFS\Macys.MyStore\MyStoreApps\UIViews\Android\PDFRenderer\obj\Release\res\values\strings.xml
+C:\Macy\Macys-MyStore-TFS\Macys.MyStore\MyStoreApps\UIViews\Android\PDFRenderer\obj\Release\res\drawable\previousbtn.png
+C:\Macy\Macys-MyStore-TFS\Macys.MyStore\MyStoreApps\UIViews\Android\PDFRenderer\obj\Release\res\drawable\nextbtn.png
+C:\Macy\Macys-MyStore-TFS\Macys.MyStore\MyStoreApps\UIViews\Android\PDFRenderer\obj\Release\R.cs.flag
+C:\Macy\Macys-MyStore-TFS\Macys.MyStore\MyStoreApps\UIViews\Android\PDFRenderer\obj\Release\uploadflags.txt
